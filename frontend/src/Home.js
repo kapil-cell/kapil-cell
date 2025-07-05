@@ -16,7 +16,7 @@ const Home = () => {
           <li><Link className="btn" to="/planning-team">Planning Team</Link></li>
         </ul>
       </nav>
-      <a href="https://github.com/AbhaySingh7228/Spare-Parts-Management-System" target="_blank" rel="noreferrer">
+      <a href="https://github.com/kapil-cell/kapil-cell" target="_blank" rel="noreferrer">
   <button className="github">Visit GitHub</button>
 </a>
     </div>
